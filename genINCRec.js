@@ -4,6 +4,8 @@ to use it you have to put it in a Scheduled Job and set it to run On Demand.
 It will generate the number of incidents you want, you only need to set things like the categories and the assignment groups,
 there are a few commented lines with Math.Random method, use them where you need them.
 
+For the assignment groups, I recommend using sys_id's as you can see in line 20.
+
 Regards,
 Miguel.
 */
